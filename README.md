@@ -7,4 +7,6 @@ oh, and ignore the hacky code.
 
 ghostbin -s [string] or -f [file] | -t [title] \(optional) | -p [password] \(optional) | -h \(help)
 
-running the program with no inputs will automatically paste your current clipboard contents, be warned
+running the program with no inputs will automatically paste your current clipboard contents, be warned...
+
+![test](http://i.imgur.com/uR4NFEu.png)
